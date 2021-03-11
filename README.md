@@ -1,4 +1,4 @@
-# :1234: Numerical MRethods [![Pylint](https://github.com/endygamedev/numerical_methods/actions/workflows/pylint.yml/badge.svg)](https://github.com/endygamedev/numerical_methods/actions/workflows/pylint.yml)
+# :1234: Numerical Methods [![Pylint](https://github.com/endygamedev/numerical_methods/actions/workflows/pylint.yml/badge.svg)](https://github.com/endygamedev/numerical_methods/actions/workflows/pylint.yml)
 
 This repository contains all practical works on the subject of Numerical Methods. 
 
