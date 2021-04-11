@@ -11,7 +11,6 @@ Methods are being optimized:
 1. [optimization.ipynb](./optimization.ipynb) — contains all functions for optimization
 1. [gaussian_big_data.json](./gaussian_big_data.json) — data on the operating time of functions which turned out with a large data set for gaussian method
 1. [gaussian_verified_data.json](./gaussian_verified_data.json) — data on the operating time of functions which turned out with verified data set for gaussian method
-1. [steepest_descent_big_data.json](./steepest_descent_big_data.json) — data on the operating time of functions which turned out with a large data set for the steepest descent method
 1. [steepest_descent_verified_data.json](./steepest_descent_verified_data.json) — data on the operating time of functions which turned out with verified data set for the steepest descent method
 1. [logo.svg](./logo.svg) — just Python logo :)
 
