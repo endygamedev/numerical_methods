@@ -15,9 +15,5 @@ Methods are being optimized:
 1. [steepest_descent_verified_data.json](./steepest_descent_verified_data.json) — data on the operating time of functions which turned out with verified data set for the steepest descent method
 1. [logo.svg](./logo.svg) — just Python logo :)
 
----
-
-#### :ballot_box_with_check: TODO:
+## :ballot_box_with_check: TODO:
 - [ ] Rewrite all functions in Python `*.py`
-
----
