@@ -7,6 +7,10 @@ This repository contains all practical works on the subject of Numerical Methods
 1. Iterative method for solving SLAE: [The Steepest Descent Method](./2-Gradient_descent)
 1. Method for solving a nonlinear equation or a system of nonlinear equations: [Secant method for a system of nonlinear equations](./3-Secant_method)
 
+## License
+[GPL-3.0 License](./LICENSE)
+
+
 ---
 
 <p align="center">
