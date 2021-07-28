@@ -11,7 +11,7 @@ This repository contains all practical works on the subject of Numerical Methods
 1. Interpolating a function of one or two variables : [Newton's first interpolation formula (Newton's formula at the beginning of the table)](./src/6.%20Newton's-first-formula)
 1. Constructing the best approximation of a function: [Padé approximation](./src/7.%20Pade-Approximation)
 1. Computing the integral: [Euler-type quadrature formulas; Formula Gregory](./src/8.%20Gregory)
-1. [Course Work](./src/Bronnikov%20-%20Course work)
+1. [Course Work](./src/Bronnikov%20-%20Course%20work.pdf)
 
 ## License
 [GPL-3.0 License](./LICENSE)
