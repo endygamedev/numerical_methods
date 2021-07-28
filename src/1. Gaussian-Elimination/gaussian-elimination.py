@@ -5,7 +5,7 @@ import warnings           # for error handling
 
 def gaussian_elimination(A_arg: np.matrix, f_arg: Union[np.matrix, np.array]) -> Union[np.matrix, np.array]:
     """
-        gaussian_elimination(...) - solves the matrix equation by the Gaussian method with Partial Pivot Selection
+        gaussian_elimination(A: np.matrix, f: Union[np.matrix, np.array]) - solves the matrix equation by the Gaussian method with Partial Pivot Selection
 
         Arguments:
             * A_arg - coefficient matrix

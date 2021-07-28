@@ -31,7 +31,7 @@ def is_symmetric(A: np.matrix) -> bool:
 
 def steepest_descent_method(A_arg: np.matrix, f_arg: np.array, K_max: int) -> np.array:
     """
-        steepest_descent_method(...) - solves the SLAE by the steepest descent method
+        steepest_descent_method(A: np.matrix, f: np.array, K_max: int) - solves the SLAE by the steepest descent method
 
         Arguments:
             * A_arg - coefficient matrix
